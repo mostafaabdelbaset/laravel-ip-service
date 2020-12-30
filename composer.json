@@ -1,5 +1,5 @@
 {
-  "name": "dimsav/laravel-ip-service",
+  "name": "mostafaabdelbaset/laravel-ip-service",
   "description": "A Laravel package to get the client's country using the ip. A wrapper for http://ip2nation.com",
   "keywords": ["laravel", "ip", "country", "nation"],
   "license": "MIT",
